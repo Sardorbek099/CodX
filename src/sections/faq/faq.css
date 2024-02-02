@@ -1,0 +1,16 @@
+.faq_section {
+    padding: 55px 64px;
+}
+
+.faq_title {
+    font-family: 'Outfit';
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 64px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    margin-left:64px;
+}

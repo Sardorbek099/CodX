@@ -1,0 +1,53 @@
+.main_section {
+    background-color: rgba(130, 203, 172, 1);
+    padding: 71px 0 160px 0;
+    margin-top: 200px;
+    position: relative;
+}
+
+.main_col {
+    width: 657px;
+}
+
+.main_title {
+    font-family: 'Outfit';
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 64px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+}
+
+.main_description {
+    font-family: 'Outfit';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+}
+
+.main_button {
+    width: 207px;
+    height: 44px;
+    background-color: rgba(47, 47, 47, 1);
+    font-family: 'Outfit';
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+
+.main_image{
+    width: 1450px;
+    top: -69px;
+    right: 0px;
+    left: 2px;
+}
+.main_image img{
+    width: 100%;
+}

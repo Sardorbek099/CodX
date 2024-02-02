@@ -1,0 +1,46 @@
+.hero_section {
+    margin-top: 43px;
+    padding: 50px 0 342px 0;
+}
+
+.col-6 {
+    width: 600px;
+}
+
+.hero_description {
+    font-family: 'Outfit';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(130, 203, 172, 1);
+    margin-top: 132px;
+}
+
+.hero_title {
+    font-family: 'Outfit';
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 64px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+}
+
+.hero_text {
+    font-family: 'Outfit';
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+    margin-top: 25px;
+}
+
+.hero_img{
+    position: absolute;
+    top: -4px;
+    left: 563px;
+}

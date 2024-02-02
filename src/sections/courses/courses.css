@@ -1,0 +1,62 @@
+.courses_section {
+    padding-bottom: 19px;
+}
+
+.course_gap{
+    gap: 63px;
+}
+
+.course_col1 {
+    width: 585px;
+    padding: 64px;
+}
+
+.course_col2{
+    width: 552px;
+}
+
+.course_number {
+    width: 57px;
+    border-radius: 30px;
+    font-family: 'Outfit';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: center;
+    padding: 6px 0 11px 0;
+    background-color: rgba(130, 203, 172, 1);
+    color: white;
+}
+.course_card2 .course_number{
+    background-color: rgba(255, 127, 150, 1);
+}
+.course_card3 .course_number{
+    background-color: rgba(234, 215, 27, 1);
+}
+.course_card2{
+    margin: 32px 0;
+}
+
+.course_name {
+    font-family: 'Outfit';
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+    margin-top: 5px;
+    margin-bottom: 13px;
+
+}
+
+.about_course {
+    font-family: 'Outfit';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+}

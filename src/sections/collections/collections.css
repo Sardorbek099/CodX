@@ -1,0 +1,39 @@
+.collection_section {
+    padding-top: 65px;
+}
+
+.collection_title {
+    font-family: 'Outfit';
+    font-size: 63px;
+    font-weight: 400;
+    line-height: 64px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: center;
+    color: rgba(47, 47, 47, 1);
+    margin-bottom: 69px;
+}
+
+.span_collection {
+    font-size: 64px;
+    line-height: 70px;
+    letter-spacing: 0.6px;
+
+}
+
+.collection_gap {
+    gap: 63px;
+}
+
+.collection_button {
+    font-family: 'Outfit';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(47, 47, 47, 1);
+    padding: 12px 37px 16px 39px;
+    margin-top: 62px;
+    margin-left: 5px;
+}

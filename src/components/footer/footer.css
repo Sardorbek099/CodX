@@ -1,0 +1,173 @@
+.footer_section {
+    padding: 116px 0 45px 0;
+}
+
+.footer_margin {
+    margin: 0px 64px;
+}
+
+.footer_col1 {
+    width: 201.8px;
+}
+
+.footer_col1 img {
+    width: 138px;
+    height: 50px;
+    margin-top: 2px;
+}
+
+.footer_community {
+    font-family: 'Outfit';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    margin: 42px 0 18px 0;
+}
+
+.footer_social_media {
+    gap: 19px;
+}
+
+.footer_social_media img {
+    width: 18px;
+    height: 18px;
+}
+
+.footer_col2 {
+    width: 80.59px;
+    margin-left: 72px;
+}
+
+.footer_col3 {
+    margin-left: 70px;
+}
+
+.footer_col2_title {
+    font-family: 'Outfit';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+}
+
+.footer_navbar {
+    list-style-type: none;
+    margin-top: 13px;
+}
+
+.footer_navbar_item {
+    margin-bottom: 2px;
+}
+
+.footer_navbar_item_link {
+    font-family: 'Outfit';
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+    text-decoration: none;
+}
+
+.footer_col4 {
+    width: 460px;
+    margin-left: 109px;
+    margin-top: -6px;
+}
+
+.footer_col4_title {
+    font-family: 'Outfit';
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+}
+
+.footer_col4_description {
+    font-family: 'Outfit';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+    margin: 17px 0;
+}
+
+.form {
+    gap: 8px;
+}
+
+.footer_input {
+    padding: 10px 108px 12px 32px;
+    border-radius: 20px;
+    font-family: 'Outfit';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 0.36);
+}
+
+.fotter_button {
+    background-color: rgba(47, 47, 47, 1);
+    padding: 10px 14px 13px 15px;
+    border-radius: 20px;
+    border: none;
+    font-family: 'Outfit';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+.text_contents{
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 124px;
+}
+
+.footer_info {
+    font-family: 'Outfit';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+}
+
+.footer_creator {
+    font-family: 'Outfit';
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    margin-right: 3px;
+    margin-top: 1px;
+}
+
+.footer_span1{
+    font-size: 14px;
+    color: rgba(255, 127, 150, 1);
+}
+
+.footer_span2{
+    font-size: 16px;
+}
+
+.footer_span3{
+    font-size: 15px;
+    color: rgba(255, 127, 150, 1);
+}

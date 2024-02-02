@@ -1,0 +1,31 @@
+.nft_section {
+    padding-top: 95px;
+}
+
+.nft_title {
+    font-family: 'Outfit';
+    font-size: 63px;
+    font-weight: 400;
+    line-height: 64px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: center;
+    color: rgba(47, 47, 47, 1);
+    margin-bottom: 21px;
+}
+
+.span_nft{
+    font-size: 64px;
+}
+
+.nft_gap{
+    gap: 38px;
+}
+
+.nft_margin{
+    margin: 16px 64px;
+}
+
+.mt-3{
+    margin-top: 44px;
+    margin-right: 10px;
+}

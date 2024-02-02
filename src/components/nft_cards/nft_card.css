@@ -1,0 +1,67 @@
+.nft_col {
+    width: 332px;
+}
+
+.nft_card{
+    margin-bottom: 9px;
+}
+
+.nft_card_body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 19px;
+}
+
+.card_info {
+    display: flex;
+    gap: 10px;
+}
+
+.nft_card_title {
+    font-family: 'Outfit';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+}
+
+.nft_card_text {
+    font-family: 'Outfit';
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+}
+
+.span_id{
+    font-size: 18px;
+}
+
+.card_actives{
+    display: flex;
+    gap: 8px;
+}
+
+.nft_password{
+    width: 38px;
+    height: 38px;
+    background-color: rgba(168, 193, 216, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nft_lock{
+    width: 39px;
+    height: 39px;
+    background-color: rgba(255, 127, 150, 1);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

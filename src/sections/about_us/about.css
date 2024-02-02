@@ -1,0 +1,194 @@
+.about_section {
+    padding-top: 87px;
+    padding-bottom: 80px;
+}
+
+.about_title {
+    font-family: 'Outfit';
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 64px;
+    letter-spacing: 0.85px;
+    text-align: center;
+    color: rgba(47, 47, 47, 1);
+}
+
+.about_title_1 {
+    letter-spacing: 0.95px;
+}
+
+.about_description {
+    font-family: 'Outfit';
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: center;
+    color: rgba(47, 47, 47, 1);
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
+.about_description_size {
+    font-size: 18px;
+}
+
+.forMargin {
+    margin-top: 71px;
+    margin-left: 48px;
+}
+
+button {
+    margin-right: 8px;
+}
+
+.active_button {
+    background-color: rgba(47, 47, 47, 1);
+    /* border: 1px solid transparent; */
+    border-radius: 30px;
+    padding: 13px 64px 16px 64px;
+    font-family: 'Outfit';
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+
+.passive_button1 {
+    background-color: rgba(255, 255, 255, 1);
+    /* border: 1px solid rgba(47, 47, 47, 1); */
+    border-radius: 30px;
+    padding: 12px 68px 16px 67px;
+    font-family: 'Outfit';
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: center;
+    color: rgba(47, 47, 47, 1);
+}
+
+.passive_button2 {
+    background-color: rgba(255, 255, 255, 1);
+    /* border: 1px solid rgba(47, 47, 47, 1); */
+    border-radius: 30px;
+    padding: 13px 61px 16px 62px;
+    font-family: 'Outfit';
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: center;
+    color: rgba(47, 47, 47, 1);
+}
+
+.about_card {
+    margin-top: 64px;
+    margin-bottom: 141px;
+    margin-right: 48px;
+    margin-left: 48px;
+}
+
+.about_col-6 {
+    width: 552px;
+}
+
+.texts .forJob {
+    font-family: "Outfit";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(255, 127, 150, 1);
+    margin-top: 47px;
+}
+
+.texts .forTitle {
+    font-family: "Outfit";
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+    margin: 16px 0 18.5px 0;
+}
+
+.texts .forText {
+    font-family: 'Outfit';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+}
+
+.about_gap {
+    gap: 10px;
+}
+
+.about_col-5 {
+    width: 585px;
+}
+
+.about_col-5 img {
+    /* width: 100%; */
+    border: 30px;
+}
+
+.about_col-7 {
+    width: 600px;
+    padding: 59px 0 62px 53px;
+}
+
+.our_work {
+    font-family: 'Outfit';
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    text-transform: uppercase;
+    color: rgba(47, 47, 47, 1);
+}
+
+.our_work_title {
+    font-family: "Outfit";
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+    margin: 3px 0 42px 0;
+
+}
+
+.our_work_description {
+    font-family: "Outfit";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(47, 47, 47, 1);
+}
+
+.about_button {
+    background-color: rgba(47, 47, 47, 1);
+    padding: 12px 40px 16px 40px;
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Outfit';
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: center;
+    float: right;
+    margin-top: 31px;
+    margin-right: -2px;
+}

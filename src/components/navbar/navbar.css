@@ -1,0 +1,58 @@
+.navbar_section {
+    box-shadow: 0px -4px 19px 0px rgba(0, 0, 0, 0.03);
+    padding: 14px 28px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.forLogo img{
+    width: 94px;
+    height: 31px;
+    margin:21px 0 18px 0;
+}
+.navbar {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    margin-bottom: 3px;
+    margin-left: 46px;
+    gap: 51px;
+}
+
+.navbar .navbar_item_link {
+    text-decoration: none;
+    font-family: 'Outfit';
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: rgba(34, 34, 34, 1);
+}
+
+.social_media {
+    align-items: center;
+    /* margin-left: 10px; */
+}
+
+.social_media img {
+    width: 18px;
+    height: 18px;
+    margin-left: 18px;
+}
+
+.navbar_button {
+    font-family: 'Outfit';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(47, 47, 47, 1);
+    padding: 12px 15px 12px 16px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 1px;
+    margin-top: 2px;
+}
